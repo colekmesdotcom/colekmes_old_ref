@@ -1,4 +1,4 @@
-# awesome_colekmes
+# awesome Colekmes
 Awesome Repository that are going to used by Colekmes and curated by Colekmes
 
 - [PyBaMM](https://github.com/pybamm-team/PyBaMM), Python Battery Mathematical Modelling 
@@ -8,5 +8,5 @@ Awesome Repository that are going to used by Colekmes and curated by Colekmes
 - [PySpice](https://github.com/FabriceSalvaire/PySpice), Simulate electronic circuit using Python and the Ngspice / Xyce simulators
 	- [Website](https://pyspice.fabrice-salvaire.fr/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NTMxOTM1MTJdfQ==
+eyJoaXN0b3J5IjpbMTUzMTIxMjI4MSwtMTY1MzE5MzUxMl19
 -->
