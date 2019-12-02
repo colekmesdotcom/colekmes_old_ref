@@ -6,7 +6,7 @@ Awesome Repository that are going to used by Colekmes and curated by Colekmes
 - [open-bldc-pysim](https://github.com/zharfanw/open-bldc-pysim), Open-BLDC python simulator
 	- Website [here](http://open-bldc.org)
 - [PySpice](https://github.com/FabriceSalvaire/PySpice), Simulate electronic circuit using Python and the Ngspice / Xyce simulators
-	- [Webs](https://pyspice.fabrice-salvaire.fr/)
+	- [Website](https://pyspice.fabrice-salvaire.fr/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MjA2Mzk0NjhdfQ==
+eyJoaXN0b3J5IjpbLTE2NTMxOTM1MTJdfQ==
 -->
