@@ -12,9 +12,9 @@ Awesome Repository that are going to used by Colekmes and curated by Colekmes
  - [PSST](https://github.com/power-system-simulation-toolbox/psst), PSST - Power System Simulation Toolbox
 	 - [Documentation](https://psst.readthedocs.io/)
  - [CENTAUR](https://github.com/susantoj/CENTAUR), Python-based hybrid power system / microgrid simulation program (similar to HOMER, Hybrid2) with functional GUI
-	 - 
+ - 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM4OTc0MTYxNCwtMzExODg0OTAxLDE4Nz
-QxOTgwNDEsLTE2NTMxOTM1MTJdfQ==
+eyJoaXN0b3J5IjpbLTM4ODE1NTUyNiwtMzg5NzQxNjE0LC0zMT
+E4ODQ5MDEsMTg3NDE5ODA0MSwtMTY1MzE5MzUxMl19
 -->
